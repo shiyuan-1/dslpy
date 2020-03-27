@@ -1,0 +1,6 @@
+README.rst
+setup.py
+dslpy.egg-info/PKG-INFO
+dslpy.egg-info/SOURCES.txt
+dslpy.egg-info/dependency_links.txt
+dslpy.egg-info/top_level.txt
